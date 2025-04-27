@@ -1,0 +1,56 @@
+nav{
+    background-color: darkslategray;
+    display: flex;
+    flex-direction: row;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    padding: 0;
+    gap: 30px;
+    text-align: center;
+    margin: 10px;
+}
+
+.l1{
+    padding: 60px;
+}
+
+.l2{
+    padding: 60px;
+}
+
+.l3{
+    padding: 60px;
+}
+
+.l4{
+    padding: 60px;
+}
+
+.l5{
+    padding: 60px;
+}
+
+.l6{
+    padding: 60px;
+}
+
+.l7{
+    padding: 60px;
+}
+
+p{
+    margin: 20px;
+    font-size: 20px ;
+}
+
+img{
+    max-width: 100%;
+}

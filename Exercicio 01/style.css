@@ -1,0 +1,26 @@
+.principal{
+    margin: 20px;
+    width: 80%;
+    text-align: center;
+    color: white;
+    background-color: gray;
+    padding: 20px;
+}
+
+.div1{
+    padding: 10px;
+    background-color: blue;
+    margin: 20px;
+}
+
+.div2{
+    padding: 10px;
+    background-color: blue;
+    margin: 20px;
+}
+
+.div3{
+    padding: 10px;
+    background-color: blue;
+    margin: 20px;
+}
